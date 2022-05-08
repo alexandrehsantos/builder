@@ -1,8 +1,8 @@
-package br.com.bulvee;
+package br.com.bulvee.invoice;
 
 import java.math.BigDecimal;
 
-public class Product {
+public class ItemProduct {
 
     private String name;
     private double quantity;
